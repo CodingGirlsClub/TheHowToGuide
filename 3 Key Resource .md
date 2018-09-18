@@ -2,12 +2,10 @@
 
 
 
-- 假设自己的club。例如 [http](https://girlscodingday.org/hangzhou.html)[s://girlscodingday.org/hangzhou.html](https://girlscodingday.org/hangzhou.html)
-  - 向 xx邮箱 提交club信息
+- 设置自己的club。例如 [http](https://girlscodingday.org/hangzhou.html)[s://girlscodingday.org/hangzhou.html](https://girlscodingday.org/hangzhou.html)
+  - 向 jryq@codingirlsclub.com邮箱 提交club信息(club名称)
+  - 团队成员注册后，邀请团队成员进入club
 
-- 加入企业微信。
-  - 怎么加入？
-  - 谁来邀请？
 
 - 加入Worktile 与团队进行项目协同管理
 
