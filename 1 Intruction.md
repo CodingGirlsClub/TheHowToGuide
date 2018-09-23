@@ -1,19 +1,24 @@
+# 我们是社会企业Coding Girls Club
 
+> 我们是一群正直、善良且富有才华的普通人，满怀激情汇聚一堂，以“为女性数字化赋能”为己任，推动社会变革和人类的进步！
 
-## 我们是社会企业Coding Girls Club
-
-> 我们是一群正直、善良且富有才华的普通人，满怀激情汇聚一堂，以为女性数字化赋能为己任，推动社会变革和人类的进步！
-
-[Coding Girls Club](http://codingirlsclub.com/) 诞生于2016年6月1日，是一家[社会企业](https://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E4%BC%81%E4%B8%9A)，致力于为女性**数字化赋能**，尤其是那些被忽视的（invisible）、压迫的（oppressed）、弱能的（powerless）人群。
+[Coding Girls Club](http://codingirlsclub.com/) 诞生于2016年6月1日，是一家[社会企业](https://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E4%BC%81%E4%B8%9A)，旨在鼓励更多女性体验编程并进入STEM领域。
 
 ![](http://ocuwjo7n4.bkt.clouddn.com/2018-07-14-134031.jpg)
 
 
-
 ----
 
-### 互联互助的学习型组织
+## 互联互助的学习型社群
+> Coding Girls Club的活动主要以线下形式展开，为女性学员提供编程入门学习课程。在这里，想要学习编程，或是想在技术领域深入探索的女性，都可以找到志同道合的朋友，获得专业知识、就业创业等方面的指导与支持。同时，我们欢迎男性志愿者和教练加入到我们的社群中来，一起建立起一个沟通交流和理念传播的平台。
 
+- 工具：介绍编程开发所需的工具，提供自主学习的路径，开启进入编程领域的第一步。
+- 社群：Coding Girls Club是一个女性友好的社群，我们的俱乐部由一群可爱的志愿者、教练及会员自发组织成立，大家一起打怪升级。
+- 动手实践：Learning by doing，通过动手实践操作构建学习编程的信心。
+
+------
+
+### 现阶段发展概况
 - 学员
   - 一段话描述我们的学员
   - 从过去的报名表中提取学员职业的图片
@@ -38,8 +43,8 @@
 - 2022年之前给20000名中国女性提供编程素养机会，培养2000名女性程序员。
 - 建构互联互助的学习平台
 - 给立志成为优秀编程者的女性提供相识的机会、并提供良好的共同交流学习的机会和平台
-- 改变社会对程序员刻板印象，提升女性多远价值
-- digitally empower females, diversy the world 数字赋能女性，多元改变世界
+- 改变社会对程序员刻板印象，提升女性多元价值
+
 - connect females to the tech world
 - A diverse world with 10002 digitally empowered female 
 
@@ -51,7 +56,7 @@
 为女性和女性自我提升数字化赋能
 
 - 个人：鼓励她们迈出第一步，勇于尝试，开辟新的人生可能性 。Coding Literacy（科普 + 入门）
-- 行业：为IT行业赋能，在消解人们刻板印象的同时，为本行业带来更多潜在人群。Coding Professionals(专业 + 职场)
+- 行业：为IT行业赋能，在消解人们刻板印象的同时，为本行业带来更多潜在人群。Coding Professionals (专业 + 职场)
 - 社会：为人类创造价值，提升教育竞争力，推动创新，使所有⼈都能从她们开创性的未来贡献中获益。Coding Value
 
 
@@ -61,17 +66,16 @@
 性别友好
 
 
-
 看到不友好，还挺身而出，乐于奉献，
-
 
 
 Give First then take
 
 giev more , take less
 
-我们的成长来自于发展他人 we grow up via help others grow up
+我们的成长来自于发展他人。 
 
+we grow up via help others grow up.
 
 
 ```Thoughtworks
