@@ -18,7 +18,7 @@
 ------
 
 ### 现阶段发展概况
-2017年，我们在9所城市举行了10场Girls Coding Day城市活动，得到了众多学员、教练、科技公司的关注与支持。
+2017年，我们在9所城市举行了11场Girls Coding Day城市活动，得到了众多学员、教练、科技公司的关注与支持。
 
 - 学员
   - 2017年，Girls Coding Day城市活动的学员报名人数超过1000人，学员参与人数449人。
@@ -36,7 +36,7 @@
 
 - 科技公司及社区
 
-  - Girls Coding Day城市活动得到了GitHub、ThoughtWorks、掘金、freeCodeCamp等科技公司与社区的支持。
+  - Girls Coding Day城市活动得到了GitHub、ThoughtWorks、掘金等科技公司与社区的支持。
   
   - 他们的支持不仅是对Coding Girls Club的肯定，也是对为“女性数字化赋能”的理念的认同。
 
@@ -49,12 +49,11 @@
 > 2. 作用?  志同道合就靠它了，立意要高，谋略要远 
 
 - 2022年之前给20000名中国女性提供编程素养机会，培养2000名女性程序员。
-- 建构互联互助的学习平台
+- 建构互联互助的信息学习平台
 - 给立志成为优秀编程者的女性提供相识的机会、并提供良好的共同交流学习的机会和平台
 - 改变社会对程序员刻板印象，提升女性多元价值
 
-- connect females to the tech world
-- A diverse world with 10002 digitally empowered female 
+- A diverse world with digitally empowered female 
 
 ### 使命（怎么做）
 
