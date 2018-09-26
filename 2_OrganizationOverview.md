@@ -39,8 +39,8 @@
 
 ### 步骤
 
-1. 寻找自己的团队成员，填写志愿者报名表「《编程女孩有力量：Girls Coding Day in College女性编程日校园行志愿者招募》https://jinshuju.net/f/LcgDaL」。
-2. CGC 协调层会安排电话面试、线下面试等方式选拔高校合适的志愿者。
+1. 寻找自己的团队成员，填写志愿者报名表「《编程女孩有力量：Girls Coding Day in College女性编程日校园行志愿者招募》https://jinshuju.net/f/LcgDaL 」。
+2. CGC协调层会通过电话面试、线下面试等方式选拔高校合适的志愿者。
 
 ### FAQ
 
