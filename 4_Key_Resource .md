@@ -12,11 +12,10 @@
 ## Worktile
 - 加入Worktile 与团队进行项目协同管理
 
-  - 由总部Club Admin邀请各校Club牵头人注册Worktile
+  - 由总部Club Admin邀请各校俱乐部牵头人注册Worktile
 
-  - 下载worktile手机和电脑客户端 <https://codingirlsclub.worktile.com/console/dashboard>
-  ![下载](https://images-cdn.shimo.im/MxulZMHsrrQSTc96/image.png!thumbnail)
-  - Club牵头人邀请其他团队成员注册Worktile
+  - 下载worktile手机和电脑客户端 https://worktile.com/client
+  - Club牵头人邀请核心团队其他成员注册Worktile
 
 - 任务设置  
   各校Club牵头人设置Girls Coding Day in College开展的阶段性任务，如下图：  

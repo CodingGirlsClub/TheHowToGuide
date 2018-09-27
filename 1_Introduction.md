@@ -5,7 +5,7 @@
 [Coding Girls Club](http://codingirlsclub.com/) 诞生于2016年6月1日，是一家[社会企业](https://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E4%BC%81%E4%B8%9A)，旨在鼓励更多女性体验编程并进入STEM领域。
 
 ![](http://ocuwjo7n4.bkt.clouddn.com/2018-07-14-134031.jpg)
- 
+
 ----
 
 ## 互联互助的学习型社群
@@ -43,7 +43,7 @@
 
 ## 愿景
 
-> 数字赋能女性，多元改变世界。A diverse world with digitally empowered female.
+> 数字赋能女性，多元改变世界。A diverse world with digitally empowered females.
 
 
 ## 使命
